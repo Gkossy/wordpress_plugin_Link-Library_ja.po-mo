@@ -35,7 +35,7 @@ msgstr "リンクのRSSフィード"
 #: ../link-library-admin.php:184 ../link-library-admin.php:1693
 #: ../link-library-admin.php:2897 ../usersubmission.php:188
 msgid "Link Category"
-msgstr "リンクカテゴリ"
+msgstr "リンクカテゴリー"
 
 #: ../link-library-admin.php:185 ../link-library-admin.php:1695
 #: ../link-library-admin.php:2424 ../link-library-admin.php:2928
@@ -54,11 +54,11 @@ msgstr "リンクを追加"
 
 #: ../link-library-admin.php:188
 msgid "New link submitted."
-msgstr "新しいリンクが加えられました"
+msgstr "新しいリンクが登録されました"
 
 #: ../link-library-admin.php:189
 msgid "It will appear in the list once moderated. Thank you."
-msgstr "一度審査リストに表示されます。ありがとう。（？？？）"
+msgstr "一度審査されたものがリストに表示されます。感謝します。"
 
 #: ../link-library-admin.php:204
 msgid "Link Library-Generated RSS Feed"
@@ -71,12 +71,12 @@ msgstr "Link Libraryで生成されたフィードの説明"
 #: ../link-library-admin.php:209 ../link-library-admin.php:2911
 #: ../link-library-admin.php:2912
 msgid "User-submitted category"
-msgstr "ユーザーが登録したカテゴリ"
+msgstr "ユーザーが登録したカテゴリー"
 
 #: ../link-library-admin.php:210 ../link-library-admin.php:2922
 #: ../link-library.php:1881
 msgid "User-submitted category (define below)"
-msgstr "ユーザーが登録したカテゴリ（以下の定義）"
+msgstr "ユーザーが登録したカテゴリー（以下の定義）"
 
 #: ../link-library-admin.php:225 ../link-library-admin.php:2957
 #: ../link-library-admin.php:3183 ../link-library.php:1939
@@ -87,7 +87,7 @@ msgstr "相互リンク"
 #: ../link-library-admin.php:227 ../link-library-admin.php:2967
 #: ../link-library.php:1945
 msgid "Secondary Address"
-msgstr "セカンダリアドレス"
+msgstr "二番目のアドレス"
 
 #: ../link-library-admin.php:229 ../link-library-admin.php:2499
 #: ../link-library-admin.php:2978 ../link-library-admin.php:3175
@@ -138,12 +138,16 @@ msgid ""
 "Please create a folder called uploads under your Wordpress /wp-content/ "
 "directory with write permissions to use this functionality."
 msgstr ""
+"この機能を使うには書込み権限を有効にして\"wordpress/wp-content/\"ディレクトリ"
+"の下に\"uploads\"というフォルダを作成してください"
 
 #: ../link-library-admin.php:399 ../link-library-admin.php:690
 msgid ""
 "Please make sure that the /wp-content/uploads/ directory has write "
 "permissions to use this functionality."
 msgstr ""
+"この機能を使うためには\"/wp-content/uploads/\"フォルダのパーミッション設定で"
+"書込み権限が有効になっていることを確認してください"
 
 #: ../link-library-admin.php:442
 msgid "Link Library - Additional Link Parameters"
@@ -151,7 +155,7 @@ msgstr "Link Library - 追加のリンクパラメーター"
 
 #: ../link-library-admin.php:507
 msgid "Link Library: Missing Thumbshots API Key"
-msgstr ""
+msgstr "Link Library: Thumbshots API Keyが見つかりません"
 
 #: ../link-library-admin.php:507
 msgid ""
@@ -160,6 +164,10 @@ msgid ""
 "visit Thumbshots.com to apply for a free or paid account and enter your API "
 "in the Link Library admin panel."
 msgstr ""
+"ライブラリーのひとつがサムネイル画像をリンクするのにThumbshotsを使用するよう"
+"に設定されていますが、まだあなたのThumbshots.com API Keyが入力されていませ"
+"ん。Thumbshots.comで無料もしくは有料のアカウントを登録した後で、Link Library"
+"の管理画面であなたのAPI Keyを入力してください。"
 
 #: ../link-library-admin.php:507
 msgid "Jump to Link Library admin"
@@ -234,7 +242,7 @@ msgstr "共通パラメーター"
 
 #: ../link-library-admin.php:628
 msgid "Link Categories Settings"
-msgstr "リンクカテゴリ設定"
+msgstr "リンクカテゴリー設定"
 
 #: ../link-library-admin.php:629
 msgid "Link Element Settings"
@@ -254,7 +262,7 @@ msgstr "RSSフィールドの設定"
 
 #: ../link-library-admin.php:633
 msgid "Thumbnail Generation and Use"
-msgstr "サムネイル画像の生成と利用"
+msgstr "サムネイル画像の生成と使用"
 
 #: ../link-library-admin.php:634
 msgid "RSS Generation"
@@ -266,7 +274,7 @@ msgstr "検索フォームの設定"
 
 #: ../link-library-admin.php:636
 msgid "Link User Submission"
-msgstr "リンクユーザの登録"
+msgstr "リンクユーザーの登録"
 
 #: ../link-library-admin.php:637
 msgid "Import / Export"
@@ -278,19 +286,19 @@ msgstr "相互リンクチェッカー"
 
 #: ../link-library-admin.php:728
 msgid "Thumbnails successfully generated!"
-msgstr "サムネイル画像の生成に成功しました！"
+msgstr "サムネイル画像が生成されました"
 
 #: ../link-library-admin.php:730
 msgid "Favicons successfully generated!"
-msgstr "ファビコンは生成されました"
+msgstr "ファビコンが生成されました"
 
 #: ../link-library-admin.php:732 ../link-library-admin.php:3330
 msgid "Thumbnail successfully generated for"
-msgstr "サムネイル画像が生成されました（？？？）"
+msgstr "のサムネイル画像が生成されました"
 
 #: ../link-library-admin.php:734 ../link-library-admin.php:3370
 msgid "Favicon successfully generated for"
-msgstr "ファビコンの生成に成功"
+msgstr "のファビコンが生成さました"
 
 #: ../link-library-admin.php:743
 msgid "General Settings Saved"
@@ -303,32 +311,33 @@ msgstr "エクスポートしたリンクをダウンロードする"
 #: ../link-library-admin.php:747 ../link-library-admin.php:815
 msgid ""
 "Link Library plugin directory needs to be writable to perform this action"
-msgstr "Link Libraryプラグインが実行するには書き込み可能である必要があります"
+msgstr ""
+"Link Libraryプラグインのディレクトリが書き込み可能になっている必要があります"
 
 #: ../link-library-admin.php:784 ../link-library-admin.php:1799
 #: ../link-library-admin.php:1810
 msgid "Library"
-msgstr "ライブラリ"
+msgstr "ライブラリー"
 
 #: ../link-library-admin.php:795 ../link-library-admin.php:1823
 msgid "Library #"
-msgstr "ライブラリ番号"
+msgstr "ライブラリー番号"
 
 #: ../link-library-admin.php:795
 msgid "Updated"
-msgstr "更新されました"
+msgstr "更新しました"
 
 #: ../link-library-admin.php:799
 msgid "Included Category ID"
-msgstr "表示カテゴリID"
+msgstr "表示カテゴリーID"
 
 #: ../link-library-admin.php:799 ../link-library-admin.php:803
 msgid "is invalid. Please check the ID in the Link Category editor."
-msgstr "無効です。リンクカテゴリエディターでIDを確認してください。"
+msgstr "無効です。リンクカテゴリーエディターでIDを確認してください。"
 
 #: ../link-library-admin.php:803
 msgid "Excluded Category ID"
-msgstr "除外カテゴリID"
+msgstr "除外カテゴリーID"
 
 #: ../link-library-admin.php:807
 msgid "Invalid column count for link on row"
@@ -336,7 +345,7 @@ msgstr "行の中の無効なカラム数"
 
 #: ../link-library-admin.php:811
 msgid "Library Settings Exported"
-msgstr "ライブラリ設定 エクスポート"
+msgstr "ライブラリー設定をエクスポートしました"
 
 #: ../link-library-admin.php:811
 msgid "Download here"
@@ -344,11 +353,11 @@ msgstr "こちらをクリックしてダウンロードしてください"
 
 #: ../link-library-admin.php:819
 msgid "Library Settings imported successfully"
-msgstr "ライブラリ設定 インポート成功"
+msgstr "ライブラリー設定をインポートしました"
 
 #: ../link-library-admin.php:823
 msgid "Library Settings Upload Failed"
-msgstr "ライブラリ設定 アップロード失敗"
+msgstr "ライブラリー設定をアップロードできませんでした"
 
 #: ../link-library-admin.php:827
 msgid "row(s) found"
@@ -356,7 +365,7 @@ msgstr "行が見つかりました"
 
 #: ../link-library-admin.php:827
 msgid "link(s) imported successfully"
-msgstr "リンクのインポートに成功しました"
+msgstr "リンクをインポートしました"
 
 #: ../link-library-admin.php:838
 msgid "Link Moderation"
@@ -376,15 +385,15 @@ msgstr "スタイルシートエディター"
 
 #: ../link-library-admin.php:855
 msgid "Stylesheet updated"
-msgstr "スタイルシートが更新されました"
+msgstr "スタイルシートを更新しました"
 
 #: ../link-library-admin.php:857
 msgid "Stylesheet reset to original state"
-msgstr "スタイルシートを元の状態にリセットする"
+msgstr "スタイルシートを初期状態にリセットする"
 
 #: ../link-library-admin.php:865
 msgid "Settings updated"
-msgstr "設定が更新されました"
+msgstr "設定を更新しました"
 
 #: ../link-library-admin.php:965 ../link-library-admin.php:1052
 #: ../link-library-admin.php:1368 ../link-library-admin.php:1492
@@ -402,8 +411,8 @@ msgid ""
 "The stylesheet is now defined and stored using the Link Library admin "
 "interface. This avoids problems with updates from one version to the next."
 msgstr ""
-"スタイルシートは既に定義されLink Libraryの管理インターフェイスに保持されてい"
-"ます。これによりバージョンアップに伴う問題を回避します。"
+"スタイルシートは既に定義されLink Libraryの管理プログラムに保持されています。"
+"これによりバージョンアップに伴う問題を回避します。"
 
 #: ../link-library-admin.php:1570
 msgid "Number of Libraries"
@@ -445,7 +454,7 @@ msgstr "ページタイトルの接尾辞"
 
 #: ../link-library-admin.php:1590 ../link-library-admin.php:1591
 msgid "API Key for Thumbshots.com thumbnail generation accounts"
-msgstr ""
+msgstr "Thumbshots.comのサムネイル画像生成アカウントのAPI Key "
 
 #: ../link-library-admin.php:1590
 msgid "Thumbshots API Key"
@@ -456,6 +465,8 @@ msgid ""
 "Path for images files that are uploaded manually or generated through "
 "Thumbshots service"
 msgstr ""
+"Thumbshotsのサービスを通して生成した、または手動でアップロードした画像ファイ"
+"ルのパス"
 
 #: ../link-library-admin.php:1594
 msgid "Link Image File Path"
@@ -463,7 +474,7 @@ msgstr "リンク画像ファイルのパス"
 
 #: ../link-library-admin.php:1601
 msgid "Export All Links"
-msgstr "リンクをエクスポート"
+msgstr "全てのリンクをエクスポート"
 
 #: ../link-library-admin.php:1616
 msgid "Add new links to your site with this bookmarklet."
@@ -488,6 +499,9 @@ msgid ""
 "the short code [link-library-addlinkcustommsg] should be placed on the "
 "destination page."
 msgstr ""
+"URLは、そのユーザーが新しいリンクを登録した後にリダイレクトされます。使用する"
+"にはショートコード[link-library-addlinkcustommsg] を目的のページに記述する必"
+"要があります。"
 
 #: ../link-library-admin.php:1627
 msgid "Link Acknowledgement URL"
@@ -709,12 +723,13 @@ msgid "Reset current Library"
 msgstr "ライブラリをリセットする"
 
 #: ../link-library-admin.php:1856
-#, fuzzy, php-format
+#, php-format
 msgid ""
 "You are about to reset Library '%s' for a table layout\n"
 "  'Cancel' to stop, 'OK' to reset."
 msgstr ""
-"あなたはライブラリ '%s' のテーブルレイアウト\\nをリセットしようとしています。"
+"あなたはライブラリー '%s' のテーブルレイアウト\\nをリセットしようとしていま"
+"す。  'Cancel' ならリセットを取りやめ、'OK' ならリセット."
 
 #: ../link-library-admin.php:1856
 msgid "Reset current Library for table layout"
@@ -743,6 +758,9 @@ msgid ""
 "a category name and look for its ID in the address shown in your browsers "
 "status bar. For example"
 msgstr ""
+"IDを確認するには、リンクカテゴリーの管理画面でカテゴリー名の上にマウスを置"
+"き、あなたのブラウザのステータスバーに表示されるアドレスの中から探します。例"
+"えば"
 
 #: ../link-library-admin.php:1882
 msgid "Categories to be displayed (Empty=All)"
@@ -776,6 +794,10 @@ msgid ""
 "The Permalinks option must be enabled for HTML GET + Permalink to work "
 "correctly."
 msgstr ""
+"AJAXを、新しいリンクを含むページ全体を再読み込みするページ全体を再読み込みす"
+"るか、HTMLのGETすることなく、リンクのリストを再ロードするために使用するかどう"
+"かを選択します。正しく動作させるには、パーマリンク設定で HTML GET + Permalink"
+"を有効にする必要があります。"
 
 #: ../link-library-admin.php:1903
 msgid "Switching Method"
@@ -829,11 +851,11 @@ msgstr "パーマリンク有効"
 
 #: ../link-library-admin.php:1969
 msgid "Permalinks Page"
-msgstr "パーマリンクス ページ（？？？）"
+msgstr "パーマリンクのページ"
 
 #: ../link-library-admin.php:1989
 msgid "Results Order"
-msgstr "順番"
+msgstr "順序"
 
 #: ../link-library-admin.php:1993 ../link-library-admin.php:2153
 msgid "Order by Name"
@@ -845,7 +867,7 @@ msgstr "ID順"
 
 #: ../link-library-admin.php:1995
 msgid "Order of categories based on included category list"
-msgstr "カテゴリリストに基づいたカテゴリの順番"
+msgstr "カテゴリーリストに基づいたカテゴリーの順番"
 
 #: ../link-library-admin.php:1996
 msgid "Order by"
@@ -857,7 +879,7 @@ msgstr "WordPressプラグイン"
 
 #: ../link-library-admin.php:2001
 msgid "Link Categories Display Format"
-msgstr "リンクカテゴリ表示形式"
+msgstr "リンクカテゴリー表示形式"
 
 #: ../link-library-admin.php:2005 ../link-library-admin.php:2208
 msgid "Table"
@@ -877,12 +899,11 @@ msgstr "リンク数を表示"
 
 #: ../link-library-admin.php:2019
 msgid "Display categories with search results"
-msgstr "カテゴリの検索結果を表示"
+msgstr "カテゴリーの検索結果を表示"
 
 #: ../link-library-admin.php:2023
-#, fuzzy
 msgid "Link Title Content"
-msgstr "リンク先電話番号"
+msgstr "リンクのタイトル"
 
 #: ../link-library-admin.php:2041 ../link-library-admin.php:2044
 msgid "This setting does not apply when selecting My Link Order for the order"
@@ -914,7 +935,7 @@ msgstr ""
 
 #: ../link-library-admin.php:2052 ../link-library-admin.php:2162
 msgid "Show Category Description"
-msgstr "カテゴリ説明の表示"
+msgstr "カテゴリーの説明の表示"
 
 #: ../link-library-admin.php:2056 ../link-library-admin.php:2166
 msgid "Position"
@@ -930,13 +951,13 @@ msgstr "左"
 
 #: ../link-library-admin.php:2065
 msgid "Width of Categories Table in Percents"
-msgstr "カテゴリテーブル幅（％）"
+msgstr "カテゴリーテーブル幅（％）"
 
 #: ../link-library-admin.php:2071 ../link-library-admin.php:2074
 msgid ""
 "Determines the number of alternating div tags that will be placed before and "
 "after each link category"
-msgstr "リンクカテゴリの前後に配置されるdivタグの数を決定する"
+msgstr "リンクカテゴリーの前後に配置されるdivタグの数を決定する"
 
 #: ../link-library-admin.php:2071 ../link-library-admin.php:2074
 msgid ""
@@ -952,7 +973,7 @@ msgstr "divタグのクラスの数（？？？）"
 
 #: ../link-library-admin.php:2084
 msgid "Number of columns in Categories Table"
-msgstr "カテゴリテーブルのカラム数"
+msgstr "カテゴリーテーブルの列数"
 
 #: ../link-library-admin.php:2091
 msgid "First div class name"
@@ -960,7 +981,7 @@ msgstr "最初のdivタグのクラス名"
 
 #: ../link-library-admin.php:2099
 msgid "Use Div Class or Heading tag around Category Names"
-msgstr "カテゴリ名の前後にDivクラス指定タグもしくはヘディングタグを利用する"
+msgstr "カテゴリー名の前後にDivクラス指定タグもしくはヘディングタグを利用する"
 
 #: ../link-library-admin.php:2103
 msgid "Div Class"
@@ -995,11 +1016,11 @@ msgstr ""
 
 #: ../link-library-admin.php:2132
 msgid "Category Target Address"
-msgstr "カテゴリターゲットアドレス"
+msgstr "カテゴリーターゲットアドレス"
 
 #: ../link-library-admin.php:2149
 msgid "Link Results Order"
-msgstr "結果の順番"
+msgstr "リンクの最終順序"
 
 #: ../link-library-admin.php:2155
 msgid "Order set by "
@@ -1023,7 +1044,7 @@ msgstr "「My Link Order」（WordPressプラグイン）モードを除く"
 
 #: ../link-library-admin.php:2188 ../link-library-admin.php:2191
 msgid "Leave empty to show all results"
-msgstr "空のままですべての結果を表示します。（？？？）"
+msgstr "全ての結果を表示するには空白のままで"
 
 #: ../link-library-admin.php:2189
 msgid "Max number of links to display"
@@ -1034,8 +1055,8 @@ msgid ""
 "Sets default link target window, does not override specific targets set in "
 "links"
 msgstr ""
-"デフォルトのリンクのターゲットウィンドウは、リンクに設定された具体的なター"
-"ゲットを上書きしない（？？？）"
+"初期設定のリンク先ウィンドウを設定します。特別なリンク先設定で上書きしないで"
+"ください"
 
 #: ../link-library-admin.php:2197
 msgid "Link Target"
@@ -1055,23 +1076,23 @@ msgstr "リンク欄見出し"
 
 #: ../link-library-admin.php:2230
 msgid "Description Column Header"
-msgstr "カラム見出しの説明"
+msgstr "説明枠（欄）の見出し"
 
 #: ../link-library-admin.php:2237
 msgid "Notes Column Header"
-msgstr "ノート欄見出し"
+msgstr "ノート枠（欄）の見出し"
 
 #: ../link-library-admin.php:2245
 msgid "Hide Category Names"
-msgstr "カテゴリ名を非表示"
+msgstr "カテゴリー名を非表示"
 
 #: ../link-library-admin.php:2252
 msgid "Show Hidden Links"
-msgstr "隠しのリンクの表示"
+msgstr "隠しリンクの表示"
 
 #: ../link-library-admin.php:2259 ../link-library-admin.php:2262
 msgid "Need to be active for Link Categories to work"
-msgstr "リンクカテゴリを有効にするにはアクティブにする必要があります"
+msgstr "リンクカテゴリーを有効にするにはアクティブにする必要があります"
 
 #: ../link-library-admin.php:2260
 msgid "Embed HTML anchors"
@@ -1162,7 +1183,7 @@ msgstr "リンク前の断続"
 
 #: ../link-library-admin.php:2336
 msgid "Frequency of additional output before and after complete link group"
-msgstr "完全なリンクグループの前後に追加の出力回数（？？）"
+msgstr "完全なリンクグループの前後に追加の出力回数"
 
 #: ../link-library-admin.php:2339 ../link-library-admin.php:2349
 msgid "Output before complete link group (link, notes, desc, etc...)"
@@ -1195,12 +1216,12 @@ msgstr "リンク画像に割り当てられるCSSクラス"
 #: ../link-library-admin.php:2379 ../link-library-admin.php:2400
 #: ../link-library-admin.php:2491 ../link-library-admin.php:2519
 msgid "Primary"
-msgstr "プライマリ"
+msgstr "一番目の"
 
 #: ../link-library-admin.php:2380 ../link-library-admin.php:2401
 #: ../link-library-admin.php:2492 ../link-library-admin.php:2520
 msgid "Secondary"
-msgstr "セカンダリ"
+msgstr "二番目の"
 
 #: ../link-library-admin.php:2387
 msgid ""
@@ -1479,7 +1500,7 @@ msgstr "リンク更新フラグを表示"
 
 #: ../link-library-admin.php:2638
 msgid "Convert [] to &lt;&gt; in Link Description and Notes"
-msgstr ""
+msgstr "リンクの説明とノートを [] から &lt;&gt; に変更する"
 
 #: ../link-library-admin.php:2646
 msgid "Add nofollow tag to outgoing links"
@@ -1507,7 +1528,7 @@ msgstr "ポップアップの高さ"
 
 #: ../link-library-admin.php:2687
 msgid "Dialog contents"
-msgstr ""
+msgstr "ダイアログの内容"
 
 #: ../link-library-admin.php:2701
 msgid "Show RSS Link using Text"
@@ -1564,6 +1585,8 @@ msgid ""
 "This button is only available when a valid API key is entered under the Link "
 "Library General Settings."
 msgstr ""
+"このボタンは有効なAPIキーがLink Library一般設定で入力されているときのみ利用で"
+"きます。"
 
 #: ../link-library-admin.php:2777
 msgid "Generate Thumbnails and Store locally"
@@ -1603,7 +1626,7 @@ msgstr "検索"
 
 #: ../link-library-admin.php:2822 ../link-library-admin.php:2823
 msgid "Leave empty when links are to be displayed on same page as search box"
-msgstr ""
+msgstr "リンクを検索窓と同じページに表示させるのであれば空白のままに"
 
 #: ../link-library-admin.php:2839
 msgid "Following this link shows a list of all links awaiting moderation"
@@ -1644,15 +1667,15 @@ msgstr "登録されたリンクのログイン名を保存する"
 
 #: ../link-library-admin.php:2869
 msgid "Add new link label"
-msgstr "新リンク追加ﾗﾍﾞﾙ"
+msgstr "新しいリンクのラベルを追加"
 
 #: ../link-library-admin.php:2874
 msgid "Link name label"
-msgstr "リンク名ﾗﾍﾞﾙ"
+msgstr "リンク名のラベル"
 
 #: ../link-library-admin.php:2880
 msgid "Link address label"
-msgstr "リンクアドレスﾗﾍﾞﾙ"
+msgstr "リンクアドレスのラベル"
 
 #: ../link-library-admin.php:2881 ../usersubmission.php:183
 msgid "Link Address"
@@ -1660,7 +1683,7 @@ msgstr "リンク アドレス"
 
 #: ../link-library-admin.php:2885
 msgid "Link RSS label"
-msgstr "リンクのRSSフィードﾗﾍﾞﾙ"
+msgstr "リンクRSSフィードのラベル"
 
 #: ../link-library-admin.php:2890 ../link-library-admin.php:2901
 #: ../link-library-admin.php:2932 ../link-library-admin.php:2942
@@ -1684,7 +1707,7 @@ msgstr "表示"
 
 #: ../link-library-admin.php:2896
 msgid "Link category label"
-msgstr "リンクカテゴリﾗﾍﾞﾙ"
+msgstr "リンクカテゴリーのラベル"
 
 #: ../link-library-admin.php:2906
 msgid ""
@@ -1695,14 +1718,15 @@ msgstr ""
 
 #: ../link-library-admin.php:2906
 msgid "Link category override selection list"
-msgstr "リンクカテゴリの上書き選択リスト"
+msgstr "リンクカテゴリーの上書き選択リスト"
 
 #: ../link-library-admin.php:2907
 msgid ""
 "Comma-seperated list of categories to be displayed in category selection box "
 "(e.g. 1,5,4)"
 msgstr ""
-"カテゴリ選択ボックスに表示されるカテゴリのカンマ区切りのリスト（例：1,5,4）"
+"カテゴリー選択ボックスに表示されるカテゴリーのカンマ区切りのリスト（例："
+"1,5,4）"
 
 #: ../link-library-admin.php:2916
 msgid "No"
@@ -1718,43 +1742,43 @@ msgstr "ユーザーが登録したカテゴリのプロンプト"
 
 #: ../link-library-admin.php:2927
 msgid "Link description label"
-msgstr "リンクの説明ﾗﾍﾞﾙ"
+msgstr "リンクの説明のラベル"
 
 #: ../link-library-admin.php:2937
 msgid "Link notes label"
-msgstr "リンクノートﾗﾍﾞﾙ"
+msgstr "リンクノートのラベル"
 
 #: ../link-library-admin.php:2956
 msgid "Reciprocal Link label"
-msgstr "相互リンクラベル"
+msgstr "相互リンクのラベル"
 
 #: ../link-library-admin.php:2966
 msgid "Secondary Address label"
-msgstr "ｾｶﾝﾀﾞﾘｱﾄﾞﾚｽﾗﾍﾞﾙ"
+msgstr "二番目のアドレスのラベル"
 
 #: ../link-library-admin.php:2977
 msgid "Link Telephone label"
-msgstr "リンク先電話番号表示"
+msgstr "リンク先電話番号のラベル"
 
 #: ../link-library-admin.php:2987
 msgid "Link E-mail label"
-msgstr "リンク E-mailﾗﾍﾞﾙ"
+msgstr "リンク先E-mailのラベル"
 
 #: ../link-library-admin.php:2998
 msgid "Link Submitter Name label"
-msgstr "リンク登録者名表示"
+msgstr "リンク登録者名のラベル"
 
 #: ../link-library-admin.php:3008
 msgid "Link Submitter E-mail label"
-msgstr "リンク登録者 E-mailﾗﾍﾞﾙ"
+msgstr "リンク登録者のE-mailのラベル"
 
 #: ../link-library-admin.php:3019
 msgid "Link Submitter Comment Label"
-msgstr "リンク登録者コメントﾗﾍﾞﾙ"
+msgstr "リンク登録者のコメントのラベル"
 
 #: ../link-library-admin.php:3029
 msgid "Large Description Label"
-msgstr "説明枠（大）ﾗﾍﾞﾙ"
+msgstr "説明枠（大）のラベル"
 
 #: ../link-library-admin.php:3040
 msgid "Custom Captcha Question"
@@ -1766,7 +1790,7 @@ msgstr "カスタムcaptcha認証の回答"
 
 #: ../link-library-admin.php:3055
 msgid "Add Link button label"
-msgstr "リンク追加ボタンﾗﾍﾞﾙ"
+msgstr "リンクを追加するボタンのラベル"
 
 #: ../link-library-admin.php:3060
 msgid "New Link Message"
@@ -1774,11 +1798,11 @@ msgstr "新しいリンクメッセージ"
 
 #: ../link-library-admin.php:3061
 msgid "New link submitted"
-msgstr "新しいリンクが加えられました"
+msgstr "新しいリンクが登録されました"
 
 #: ../link-library-admin.php:3065
 msgid "New Link Moderation Label"
-msgstr "新しいリンクの承認表示ラベル"
+msgstr "新しいリンク承認のラベル"
 
 #: ../link-library-admin.php:3066
 msgid "it will appear in the list once moderated. Thank you."
@@ -1810,27 +1834,27 @@ msgstr "最初の行に見出しを含める"
 
 #: ../link-library-admin.php:3095
 msgid "Overwrites current library settings with contents of CSV file"
-msgstr "CSVファイルの内容で現在のライブラリ設定を上書き"
+msgstr "CSVファイルの内容で現在のライブラリー設定を上書き"
 
 #: ../link-library-admin.php:3095
 msgid "Library Settings CSV file to import"
-msgstr "ライブラリ設定 CSVファイルのインポート"
+msgstr "ライブラリー設定のCSVファイルのインポート"
 
 #: ../link-library-admin.php:3097
 msgid "Import Library Settings"
-msgstr "ライブラリ設定をインポート"
+msgstr "ライブラリー設定をインポート"
 
 #: ../link-library-admin.php:3100
 msgid "Generates CSV file with current library configuration for download"
-msgstr "ダウンロード用に現在のライブラリ設定でCSVファイルを生成します。"
+msgstr "ダウンロード用に現在のライブラリー設定でCSVファイルを生成します。"
 
 #: ../link-library-admin.php:3100
 msgid "Export current library settings"
-msgstr "ライブラリ設定のエクスポート"
+msgstr "ライブラリー設定のエクスポート"
 
 #: ../link-library-admin.php:3101
 msgid "Export Library Settings"
-msgstr "ライブラリ設定のエクスポート"
+msgstr "ライブラリー設定のエクスポート"
 
 #: ../link-library-admin.php:3112
 msgid "Search string"
@@ -1858,7 +1882,7 @@ msgstr "日付の更新"
 
 #: ../link-library-admin.php:3171
 msgid "Secondary Web Address"
-msgstr "セカンダリウェブアドレス"
+msgstr "二番目のウェブアドレス"
 
 #: ../link-library-admin.php:3172 ../link-library-admin.php:3184
 msgid "Visit"
@@ -1878,7 +1902,7 @@ msgstr "リンク登録者名"
 
 #: ../link-library-admin.php:3199 ../usersubmission.php:195
 msgid "Link Submitter E-mail"
-msgstr "リンク登録者 E-mail"
+msgstr "リンク登録者のE-mail"
 
 #: ../link-library-admin.php:3207
 msgid "Current Link Image"
@@ -1902,21 +1926,21 @@ msgstr "お気に入りアイコンの生成とローカルへの保存"
 
 #: ../link-library-admin.php:3228
 msgid "Only available once link is saved"
-msgstr ""
+msgstr "一度保存されたリンクのみ有効"
 
 #: ../link-library-admin.php:3232
 msgid "Manual Image Upload"
-msgstr "主導で画像をアップロード"
+msgstr "手動で画像をアップロード"
 
 #: ../link-library-admin.php:3233
 msgid "Launch Media Uploader"
-msgstr ""
+msgstr "メディアアップローダーの起動"
 
 #: ../link-library-admin.php:3236
 msgid ""
 "Manual upload requires a wp-content\\uploads directory to be present with "
 "write permissions"
-msgstr "主導で画像をアップロードするには、書き込み権限が必要です。"
+msgstr "手動で画像をアップロードするには、書き込み権限が必要です。"
 
 #: ../link-library-admin.php:3336
 msgid ""
@@ -1967,7 +1991,7 @@ msgstr "編集する"
 
 #: ../link-library.php:1509
 msgid "Preview of RSS feed for"
-msgstr ""
+msgstr "RSSフィードのプレビュー"
 
 #: ../link-library.php:1735
 msgid "No links found"
@@ -2014,7 +2038,7 @@ msgstr "エラー：リンクは既にあります"
 
 #: ../link-library.php:1877
 msgid "Link category"
-msgstr "リンクカテゴリ"
+msgstr "リンクカテゴリー"
 
 #: ../link-library.php:1907
 msgid "Link description"
@@ -2050,7 +2074,7 @@ msgstr "ユーザーが新しいリンクをデータベースに登録しまし
 
 #: ../usersubmission.php:190
 msgid "Link Secondary Address"
-msgstr "リンクセカンダリアドレス"
+msgstr "リンク二番目のアドレス"
 
 #: ../usersubmission.php:191
 msgid "Link Telephone"
@@ -2058,11 +2082,11 @@ msgstr "リンク先電話番号"
 
 #: ../usersubmission.php:192
 msgid "Link E-mail"
-msgstr "リンク E-mail"
+msgstr "リンクのE-mail"
 
 #: ../usersubmission.php:196
 msgid "Link Comment"
-msgstr "リンクコメント"
+msgstr "リンクのコメント"
 
 #: ../usersubmission.php:213
 msgid "New link added"
